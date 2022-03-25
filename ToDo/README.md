@@ -1,1 +1,1 @@
-Website for Django to do app.
+Website for Django ToDo app.
